@@ -1,3 +1,15 @@
 #show-contact {
-  display: none;
+  display: none;}
+
+.image{
+  width: 662px;
+  height: 550px;
+}  
+
+hr{
+  color: blue;
+}
+
+#buttons{
+  color: red;
 }
